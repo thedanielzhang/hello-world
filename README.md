@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hey friends!
+
+C# and Java are fun.
